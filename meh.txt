@@ -1,0 +1,3 @@
+nomenclature:
+	Star A,B.. - Planet/"Star b,c,d.."
+Trojans: objects that share orbit with a planet
